@@ -1,4 +1,4 @@
-### Please join our online community to submit ideas for the script
+### Please join our online community to submit ideas for the script or to become a code contributor:
 [CircusAndCode Community](cusandcode.disciplemedia.com)
 
 ### The script can be at:
